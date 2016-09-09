@@ -1,8 +1,6 @@
 #profile-pic{
     max-width:300px;
 }
-.project-tile{
-    border: 1px solid dimgray;
-    border-radius: 2%;
-    background-color: dimgray;
+.container{
+    background-color:#F4F4F4
 }
