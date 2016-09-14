@@ -7,7 +7,7 @@
 My portfolio page for future projects in [CSCI E-15] (http://dwa15.com/)
 
 ## Demo
-<http://screencast.com/t/fnwuhbg5z>
+<http://screencast.com/t/oJkrCcpHr>
 
 ## Outside code and resources
 * Font Awesome: <http://fontawesome.io/>
